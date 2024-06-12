@@ -1,6 +1,6 @@
 # SecuriCore-Documentation
 
-```markdown
+
 # SecuriCore Documentation
 
 ## Overview
